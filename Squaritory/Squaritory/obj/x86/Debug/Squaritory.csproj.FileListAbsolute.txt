@@ -1,0 +1,6 @@
+C:\Users\Cory\Documents\Visual Studio 2010\Projects\Squaritory\Squaritory\Squaritory\bin\x86\Debug\Squaritory.exe
+C:\Users\Cory\Documents\Visual Studio 2010\Projects\Squaritory\Squaritory\Squaritory\bin\x86\Debug\Squaritory.pdb
+C:\Users\Cory\Documents\Visual Studio 2010\Projects\Squaritory\Squaritory\Squaritory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cory\Documents\Visual Studio 2010\Projects\Squaritory\Squaritory\Squaritory\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Cory\Documents\Visual Studio 2010\Projects\Squaritory\Squaritory\Squaritory\obj\x86\Debug\Squaritory.exe
+C:\Users\Cory\Documents\Visual Studio 2010\Projects\Squaritory\Squaritory\Squaritory\obj\x86\Debug\Squaritory.pdb
